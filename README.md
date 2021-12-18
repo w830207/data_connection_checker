@@ -1,5 +1,7 @@
 ### data_connection_checker
 
+# 添加了百度ip
+
 [![Pub](https://img.shields.io/pub/v/data_connection_checker.svg)](https://pub.dev/packages/data_connection_checker)
 
 A pure Dart utility library that checks for an internet connection by opening a socket to a list of specified addresses, each with individual port and timeout. Defaults are provided for convenience.
